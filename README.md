@@ -1,3 +1,4 @@
+amazing thing that you can explore
 # gangsta
 ## Gots to speak gangsta? This bot will hook you up.
 
